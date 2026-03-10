@@ -61,7 +61,7 @@ If you would like to test the game mechanics, you can download the prototype bui
 
 **Step 1: Download the Game**
 * Go to the [releases page](../../releases/) of this repository.
-* Copy the google drive link and download the `VeggieVanguard-Prototype-v1.0.zip` file to your computer.
+* Download the `VeggieVanguard-Prototype-v1.0.zip` file to your computer.
 
 **Step 2: Extract & Play**
 * Unzip the downloaded folder to your preferred location.
