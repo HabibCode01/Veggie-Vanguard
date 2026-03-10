@@ -5,7 +5,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GameDev](https://img.shields.io/badge/Game_Development-blue?style=for-the-badge)
 
-**Veggie Vanguard** is a 3D turn-based RPG developed to showcase advanced game state management, engaging combat mechanics, and dynamic AI interactions. Take control of a brave party of vegetable heroes as they defend their peaceful village from the spreading corruption of the Rot King and his minions!
+**Veggie Vanguard** is a 3D turn-based RPG developed to showcase advanced game state management, engaging combat mechanics, and dynamic AI interactions. Take control of a brave party of vegetable heroes as they defend their peaceful village from the spreading corruption of the Rot King and his minions! 
 
 ---
 
@@ -56,7 +56,7 @@ Many beginner RPG projects struggle with maintaining persistent game states acro
 
 ## 📥 Try the Prototype (Playable Build)
 
-> **⚠️ Academic Project Disclaimer:** > *Veggie Vanguard is a game development project for academic purposes at the Faculty of Computer Science and Information Technology (FSKTM), UTHM. This is a prototype build and **not an official commercial release**.*
+> **⚠️ Academic Project Disclaimer:** > *Veggie Vanguard is my game development project within 4 months for academic purposes at the Faculty of Computer Science and Information Technology (FSKTM), UTHM. This is a prototype build and **not an official commercial release**.*
 
 If you would like to test the game mechanics, you can download the prototype build:
 
