@@ -48,9 +48,9 @@ Many beginner RPG projects struggle with maintaining persistent game states acro
 ## 📸 Screenshots
 *(Note: Upload your UI screenshots to an `assets` folder in your GitHub repo to display them here)*
 
-| Village Exploration | Enemy Encounter | Boss Battle | Victory State |
+| Village Exploration | Enemy Encounter | Boss Battle | Ai Interact NPC |
 | :---: | :---: | :---: | :---: |
-| <img src="assets/village.jpeg" width="200"/> | <img src="assets/enemies.jpeg" width="200"/> | <img src="assets/boss.jpeg" width="200"/> | <img src="assets/victory.jpeg" width="200"/> |
+| <img src="assets/Village Exploration.png" width="200"/> | <img src="assets/Enemy encounter.png" width="200"/> | <img src="assets/boss battle.png" width="200"/> | <img src="assets/Ai interact npc.png" width="200"/> |
 
 ---
 
@@ -62,7 +62,7 @@ If you would like to test the game mechanics, you can download the prototype bui
 
 **Step 1: Download the Game**
 * Go to the [Releases page](../../releases/) of this repository.
-* Download the `VeggieVanguard-Prototype-v1.0.zip` file to your computer.
+* Copy the google drive link and download the `VeggieVanguard-Prototype-v1.0.zip` file to your computer.
 
 **Step 2: Extract & Play**
 * Unzip the downloaded folder to your preferred location.
