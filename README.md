@@ -52,7 +52,7 @@ Many beginner RPG projects struggle with maintaining persistent game states acro
 
 ## 📥 Try the Prototype (Playable Build)
 
-> **⚠️ Academic Project Disclaimer:** > *Veggie Vanguard is a game development project for academic purposes at the Faculty of Computer Science and Information Technology (FSKTM), UTHM. This is a prototype build and **not an official commercial release**.*
+> **⚠️ Academic Project Disclaimer:** > *Veggie Vanguard is a my game development project for academic purposes at the Faculty of Computer Science and Information Technology (FSKTM), UTHM. This is a prototype build and **not an official commercial release**.*
 
 If you would like to test the game mechanics, you can download the prototype build:
 
