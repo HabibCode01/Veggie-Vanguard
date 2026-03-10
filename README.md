@@ -46,7 +46,6 @@ Many beginner RPG projects struggle with maintaining persistent game states acro
 ---
 
 ## 📸 Screenshots
-*(Note: Upload your UI screenshots to an `assets` folder in your GitHub repo to display them here)*
 
 | Village Exploration | Enemy Encounter | Boss Battle | Ai Interact NPC |
 | :---: | :---: | :---: | :---: |
