@@ -9,14 +9,6 @@
 
 ---
 
-## 🚀 The Problem We Solve
-
-Many beginner RPG projects struggle with maintaining persistent game states across different scenes, and traditional NPC dialogue trees often feel static and repetitive. 
-
-**Veggie Vanguard** solves this by implementing a robust, decoupled `GameManager` architecture that flawlessly remembers player victories and alters the game world dynamically. Furthermore, the game replaces static dialogue trees with **Generative AI NPCs**, allowing players to use their actual voice to have dynamic, context-aware conversations with villagers, demonstrating a strong understanding of persistent data flow and API integration.
-
----
-
 ## ✨ Key Features
 
 * 🎙️ **Voice-Activated AI NPCs:** Engage in dynamic, real-time conversations with village NPCs. Powered by OpenAI's API and Speech-to-Text (STT) integration, players can speak directly into their microphones for an immersive, unscripted roleplay experience.
